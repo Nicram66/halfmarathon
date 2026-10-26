@@ -1,0 +1,12 @@
+cat > .gitignore << 'EOF'
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.zip
+data/
+model/half_marathon_model_*.joblib
+EOF

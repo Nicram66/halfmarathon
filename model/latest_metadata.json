@@ -1,0 +1,19 @@
+{
+  "version": "20261025_205423",
+  "model_name": "GradientBoosting",
+  "features": [
+    "czas_5km_s",
+    "plec",
+    "wiek"
+  ],
+  "n_samples": 18373,
+  "test_metrics": {
+    "MAE_s": 299.15089906110194,
+    "RMSE_s": 408.8056904402113,
+    "MedAE_s": 225.02198706529816,
+    "MAPE_pct": 3.9024726362333477,
+    "R2": 0.8903180764276772
+  },
+  "sklearn_version": "1.9.1",
+  "trained_at": "2026-10-25T20:54:23"
+}
