@@ -1,4 +1,4 @@
-# Estymator czasu półmaratonu (Wrocław 2023)
+# Estymator czasu półmaratonu (trenowany na podstawie danych z półmaratonu wrocławskiego 2023)
 
 Aplikacja Streamlit: użytkownik opisuje się tekstem (płeć, wiek, czas na 5 km) → OpenAI wyłuskuje dane do JSON → model ML szacuje czas półmaratonu. Wywołania LLM są monitorowane w Langfuse.
 
